@@ -1,0 +1,12 @@
+D:\Kuliah Lapangan\Software\Seira\Seira\bin\Debug\Seira.exe.config
+D:\Kuliah Lapangan\Software\Seira\Seira\obj\Debug\Seira.Properties.Resources.resources
+D:\Kuliah Lapangan\Software\Seira\Seira\obj\Debug\Seira.csproj.GenerateResource.Cache
+D:\Kuliah Lapangan\Software\Seira\Seira\obj\Debug\Seira.Main.resources
+D:\Kuliah Lapangan\Software\Seira\Seira\bin\Debug\Seira.exe
+D:\Kuliah Lapangan\Software\Seira\Seira\bin\Debug\Seira.pdb
+D:\Kuliah Lapangan\Software\Seira\Seira\obj\Debug\Seira.exe
+D:\Kuliah Lapangan\Software\Seira\Seira\obj\Debug\Seira.pdb
+D:\Kuliah Lapangan\Software\Seira\Seira\obj\Debug\Seira.csprojResolveAssemblyReference.cache
+D:\Kuliah Lapangan\Software\Seira\Seira\bin\Debug\Excel.dll
+D:\Kuliah Lapangan\Software\Seira\Seira\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Kuliah Lapangan\Software\Seira\Seira\bin\Debug\Excel.pdb
